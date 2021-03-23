@@ -1019,10 +1019,10 @@ const reducer=(state,action)=>{
             ...state,
             P4WfacultyAt04:[...state.P4WfacultyAt04,action.item]
         }
-        case'PWADD_TO_05':
+        case'P4WADD_TO_05':
         return{
             ...state,
-            PWfacultyAt05:[...state.PWfacultyAt05,action.item]
+            P4WfacultyAt05:[...state.P4WfacultyAt05,action.item]
         }
 
         case'P4THADD_TO_9':

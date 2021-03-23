@@ -2,7 +2,7 @@ import React,{useState} from 'react'
 import B3petroleum from './B3petroleum'
 import './B2chemicals.css'
 import {Link} from 'react-router-dom'
-import Example from './PModal'
+import Example from './P3Modal'
 
 function B3petroleums() {
 

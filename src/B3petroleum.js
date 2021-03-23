@@ -2318,7 +2318,7 @@ return (
        <div className='faculty__course'>
         <div>5.30pm to 6.30pm</div>
          <div className='faculty'>
-         <select className="browser-default custom-select" onChange={handler05}>
+         <select className="browser-default custom-select" onChange={handler05}> 
          <option value="" disabled selected>Slots Available</option>
          
          {    

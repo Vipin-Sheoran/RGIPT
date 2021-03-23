@@ -16,28 +16,28 @@ function PE3preview({preview}) {
         const wednesday=[P3WfacultyAt9,P3WfacultyAt10,P3WfacultyAt11,P3WfacultyAt12,P3WfacultyAt03,P3WfacultyAt04,P3WfacultyAt05]
         const thursday=[P3THfacultyAt9,P3THfacultyAt10,P3THfacultyAt11,P3THfacultyAt12,P3THfacultyAt03,P3THfacultyAt04,P3THfacultyAt05]
         const friday=[P3FfacultyAt9,P3FfacultyAt10,P3FfacultyAt11,P3FfacultyAt12,P3FfacultyAt03,P3FfacultyAt04,P3FfacultyAt05]
-        const prof=['Dr. UO','Dr. UDD','Dr. AKC','Dr. Bala','Dr. Rakesh','Dr. ASKS']
+        const prof=['Dr. Biswas','Dr. UDD','Dr. Shivanjali','Dr. SK Sinha']
       
         const courseHandler=(each)=>{
           let course=[]
             if(each[0]===prof[0]){
-                course='Natural Gas Processing'
+                course='Geoinformatics'
                }
                if(each[0]===prof[1]){
                  course='EE&Electronics'
                }
                if(each[0]===prof[2]){
-                 course='Petroleum Chemistry'
+                 course='Production Engineering'
                }
                if(each[0]===prof[3]){
-                 course='Petroleum Refining 2'
+                 course='Petrol Exploration & Prospecting'
                }
-               if(each[0]===prof[4]){
-                 course='Mass Transfer'
-               }
-               if(each[0]===prof[5]){
-                 course='Chemical Reaction Engineering'
-               }
+              //  if(each[0]===prof[4]){
+              //    course='Mass Transfer'
+              //  }
+              //  if(each[0]===prof[5]){
+              //    course='Chemical Reaction Engineering'
+              //  }
                return course
              }
       

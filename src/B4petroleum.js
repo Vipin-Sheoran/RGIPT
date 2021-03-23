@@ -270,7 +270,8 @@ if(C4MfacultyAt10.length>0){
   }else{
     numAt9=[P4MfacultyAt9[0]]    
     numAt10=[P4MfacultyAt10[0]]
-    numAt11=[P4MfacultyAt12[0]]
+    numAt11=[P4MfacultyAt11[0]]
+    numAt12=[P4MfacultyAt12[0]]
     numAt03=[P4MfacultyAt03[0]]
     numAt04=[P4MfacultyAt04[0]]
     numAt05=[P4MfacultyAt05[0]]
@@ -443,7 +444,8 @@ if(C4TfacultyAt10.length>0){
   }else{
     numAt9=[P4TfacultyAt9[0]]    
     numAt10=[P4TfacultyAt10[0]]
-    numAt11=[P4TfacultyAt12[0]]
+    numAt11=[P4TfacultyAt11[0]]
+    numAt12=[P4TfacultyAt12[0]]
     numAt03=[P4TfacultyAt03[0]]
     numAt04=[P4TfacultyAt04[0]]
     numAt05=[P4TfacultyAt05[0]]
@@ -618,7 +620,8 @@ if(C4WfacultyAt10.length>0){
   }else{
     numAt9=[P4WfacultyAt9[0]]    
     numAt10=[P4WfacultyAt10[0]]
-    numAt11=[P4WfacultyAt12[0]]
+    numAt11=[P4WfacultyAt11[0]]
+    numAt12=[P4WfacultyAt12[0]]
     numAt03=[P4WfacultyAt03[0]]
     numAt04=[P4WfacultyAt04[0]]
     numAt05=[P4WfacultyAt05[0]]
@@ -790,7 +793,8 @@ if(C4THfacultyAt10.length>0){
   }else{
     numAt9=[P4THfacultyAt9[0]]    
     numAt10=[P4THfacultyAt10[0]]
-    numAt11=[P4THfacultyAt12[0]]
+    numAt11=[P4THfacultyAt11[0]]
+    numAt12=[P4THfacultyAt12[0]]
     numAt03=[P4THfacultyAt03[0]]
     numAt04=[P4THfacultyAt04[0]]
     numAt05=[P4THfacultyAt05[0]]
@@ -962,7 +966,8 @@ if(C4FfacultyAt10.length>0){
   }else{
     numAt9=[P4FfacultyAt9[0]]    
     numAt10=[P4FfacultyAt10[0]]
-    numAt11=[P4FfacultyAt12[0]]
+    numAt11=[P4FfacultyAt11[0]]
+    numAt12=[P4FfacultyAt12[0]]
     numAt03=[P4FfacultyAt03[0]]
     numAt04=[P4FfacultyAt04[0]]
     numAt05=[P4FfacultyAt05[0]]
